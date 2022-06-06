@@ -1,6 +1,7 @@
 // Q1 Reverse the array
 #include<iostream>
 using namespace std;
+//Reversing an array
 void ReverseArray(int arr[],int start, int end)
 {
 	while(start < end)
